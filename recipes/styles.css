@@ -1,0 +1,48 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    color:aliceblue;
+}
+
+h1 {
+    font-size: 20px;
+    color: aliceblue;
+}
+
+h1, body {
+    background-color: black;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
+
+ul, ol {
+    list-style-position: inside;
+}
+
+ul li {
+    padding-left: 525px;
+    text-align: left;
+}
+
+ol li {
+    text-align: left;
+    padding-left: 400px;
+    padding-right: 400px;
+    margin: 10px 0;
+}
+
+ul a {
+    font-size: 25px;
+    background-color: black;
+    color: aliceblue;
+    text-decoration: none;
+    border-style: double;
+    border-radius: 10px;
+    border-color: lightskyblue;
+    padding: 5px;
+    position: relative;
+    left: -20px;
+}
